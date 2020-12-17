@@ -17,7 +17,7 @@ body {
 
 .header > h1 {
   border-style: double;
-  padding: 6px;
+  padding: 5px;
 }
 
 .header img {
@@ -138,6 +138,10 @@ img {
     font-size: 2em;
     height: 100vh;
     margin-bottom: 1vh;
+  }
+
+  .header > h1 {
+    padding: 25px;
   }
 
   .sectionTitle{
